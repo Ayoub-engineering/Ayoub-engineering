@@ -1,16 +1,47 @@
-## Hi there 👋
+# Ayoub Khichi
 
-<!--
-**Ayoub-engineering/Ayoub-engineering** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Electrical Engineering (B. Eng.)
+Automation and Control Systems
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+
+### Automatisierung eines Sammelbeckens
+
+SPS-based automation system using Siemens TIA Portal, HMI, and EPLAN.
+
+* PLC programming (SCL)
+* HMI visualization
+* Electrical planning (EPLAN)
+
+---
+
+### Drone Object Tracking System
+
+Real-time object tracking using computer vision and control logic.
+
+* Python, OpenCV
+* Real-time tracking
+* Drone control system
+
+---
+
+### Stereo Audio Pre-Amplifier (KiCad)
+
+Analog audio circuit with PCB design and simulation.
+
+* KiCad PCB design
+* LTspice simulation
+* Analog circuit design
+
+---
+
+## Skills
+
+* SPS: Siemens TIA Portal (S7), TwinCAT
+* Programming: Python, C/C++
+* Electronics: KiCad, LTspice
+* Tools: EPLAN Electric P8, Git
+
+---
