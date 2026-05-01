@@ -37,7 +37,7 @@ Analog audio circuit with PCB design and simulation.
 
 ---
 
-## Skills
+## Skills applied in these projects
 
 * SPS: Siemens TIA Portal (S7), TwinCAT
 * Programming: Python, C/C++
