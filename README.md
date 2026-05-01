@@ -1,7 +1,7 @@
 # Ayoub Khichi
 
 Electrical Engineering (B. Eng.)
-Automation and Control Systems
+Focus: Automation and Control Systems
 
 ---
 
@@ -9,39 +9,44 @@ Automation and Control Systems
 
 ### Automatisierung eines Sammelbeckens
 
-SPS-based automation system using Siemens TIA Portal, HMI, and EPLAN.
+Industrial automation system with PLC control, HMI visualization, and electrical design.
 
-* PLC programming (SCL)
-* HMI visualization
-* Electrical planning (EPLAN)
+* PLC programming in Siemens TIA Portal (SCL)
+* HMI development for process monitoring and control
+* Electrical design and schematics using EPLAN Electric P8
 
 ---
 
 ### Drone Object Tracking System
 
-Real-time object tracking using computer vision and control logic.
+Real-time object tracking system using computer vision and control logic.
 
-* Python, OpenCV
-* Real-time tracking
-* Drone control system
+* Python and OpenCV for object detection and tracking
+* Real-time video processing and feedback control
+* Drone control using PID-based stabilization
 
 ---
 
 ### Stereo Audio Pre-Amplifier (KiCad)
 
-Analog audio circuit with PCB design and simulation.
+Analog audio system designed, simulated, and implemented on PCB.
 
-* KiCad PCB design
-* LTspice simulation
-* Analog circuit design
+* Circuit design and PCB layout using KiCad
+* LTspice simulation and frequency response validation
+* Analog signal processing and amplification
 
 ---
 
-## Skills applied in these projects
+## Skills Applied in These Projects
 
-* SPS: Siemens TIA Portal (S7), TwinCAT
+* Automation: Siemens TIA Portal (S7), TwinCAT
 * Programming: Python, C/C++
-* Electronics: KiCad, LTspice
-* Tools: EPLAN Electric P8, Git
+* Electrical Design: EPLAN Electric P8
+* PCB & Simulation: KiCad, LTspice
+* Tools: Git, GitHub
 
 ---
+
+## Profile
+
+Interested in entry-level positions in automation, control systems, or embedded engineering.
